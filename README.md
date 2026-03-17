@@ -11,17 +11,17 @@ Welcome to the Japanese Toy Wiki!
 
 ## Individual Toys
 
-- [Bullmark (Vintage) Standard Size Kameba (カメーバ-)](Bullmark-(Vintage)-Standard-Size-Kameba-(カメーバ-))
-- [Bullmark (Vintage) Standard Size Alien Icarus (イカルス星人)](Bullmark-(Vintage)-Standard-Size-Alien-Icarus-(イカルス星人))
+- [Bullmark (Vintage) Standard Size Kameba (カメーバ-)](vinyl-individual-bullmark-vintage-standard-kameba.md)
+- [Bullmark (Vintage) Standard Size Alien Icarus (イカルス星人)](vinyl-individual-bullmark-vintage-standard-alien-icarus.md)
 
 ## Toy Brands
 
-- [Iwakura Godzilla Bullmark Legends](Iwakura-Godzilla-Bullmark-Legends)
-- [Soul Of Bullmark](Soul-Of-Bullmark)
+- [Bandai Soul Of Bullmark](vinyl-brand-bandai-soul-of-bullmark.md)
+- [Iwakura Godzilla Bullmark Legends](vinyl-brand-iwakura-bullmark-legends.md)
 
-## Character Files
+## Characters
 
-- [King Godzilla ‐ King Godoras ‐ King Godras (キングゴジラ ‐ キングゴドラス)](King-Godzilla-‐-King-Godoras-‐-King-Godras-(キングゴジラ-‐-キングゴドラス))
+- [King Godzilla ‐ King Godoras ‐ King Godras (キングゴジラ ‐ キングゴドラス)](vinyl-character-king-godzilla.md)
 
 ***
 

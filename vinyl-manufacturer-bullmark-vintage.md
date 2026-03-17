@@ -38,9 +38,9 @@ In addition to the main series of reissues described above, numerous individual 
 - **Toygraph** (トイグラフ)
 - **Gargamel** (ガーガメル)
 
-In the early 2000s, Bandai released scaled-down replicas of Bullmark Ultra Series figures called [Soul of Bullmark](Soul-Of-Bullmark). These were initially sold in gashapon machines and later as candy toys.
+In the early 2000s, Bandai released scaled-down replicas of Bullmark Ultra Series figures called [Soul of Bullmark](vinyl-brand-bandai-soul-of-bullmark.md). These were initially sold in gashapon machines and later as candy toys.
 
-Shortly afterwards, **Iwakura** (イワクラ) released similar replicas of Toho Kaiju figures called [Iwakura Godzilla Bullmark Legends](Iwakura-Godzilla-Bullmark-Legends), also sold as candy toys.
+Shortly afterwards, **Iwakura** (イワクラ) released similar replicas of Toho Kaiju figures called [Iwakura Godzilla Bullmark Legends](vinyl-brand-iwakura-bullmark-legends.md), also sold as candy toys.
 
 In 2009, the Popy reissue series ended, and the Bullmark brand was relaunched by Saburo Ishizuki. (See the [Bullmark (Modern)](vinyl-manufacturer-bullmark-modern.md) article.)
 
@@ -73,7 +73,7 @@ Thank you to Eiji Kaminaga of Marusan for providing source material for this art
 - Mechagodzilla (メカゴジラ)
 - Gezora (ゲゾラ)
 - Ganime (ガニメ)
-- [Kameba (カメーバ )](Bullmark-(Vintage)-Standard-Size-Kameba-(カメーバ-))
+- [Kameba (カメーバ )](vinyl-individual-bullmark-vintage-standard-kameba.md)
 
 ## Ultraseven Characters
 
@@ -90,7 +90,7 @@ Thank you to Eiji Kaminaga of Marusan for providing source material for this art
 - Alien Godola (ゴドラ星人)
 - Alien Pegassa (ペガッサ星人)
 - Alien Metron (メトロン星人)*
-- [Alien Icarus (イカルス星人)*](Bullmark-(Vintage)-Standard-Size-Alien-Icarus-(イカルス星人))
+- [Alien Icarus (イカルス星人)*](vinyl-individual-bullmark-vintage-standard-alien-icarus.md)
 - Alien Bell (ベル星人)
 - King Joe (キングジョー)*
 - U-Tom (ユートム)*
