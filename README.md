@@ -34,12 +34,12 @@ The following Wiki pages were ported over from the ToyboxDX Datafiles with permi
 - Ansony
 - Aoshin
 - Apex
-- [Ark (English)](Datafile-‐-Ark-(English))
-- [Ark (日本語)](Datafile-‐-Ark-(日本語))
+- [Ark (English)](diecast-manufacturer-ark-english.md)
+- [Ark (日本語)](diecast-manufacturer-ark-japanese.md)
 - Banso
 - Big Bear
-- [Bullmark (English)](Datafile-‐-Bullmark-(English))
-- [Bullmark (日本語)](Datafile-‐-Bullmark-(日本語))
+- [Bullmark (English)](diecast-manufacturer-bullmark-english.md)
+- [Bullmark (日本語)](diecast-manufacturer-bullmark.japanese.md)
 - Clover
 - Eidai
 - Fuji
@@ -73,8 +73,8 @@ The following Wiki pages were ported over from the ToyboxDX Datafiles with permi
 
 ## Toy Brands
 
-- [Bandai High Complete Models](Bandai-High-Complete-Models)
-- [Popy Chogokin and Popynika](Datafile-‐-Popy-Chogokin-and-Popynika)
+- [Bandai High Complete Models](diecast-brand-bandai-high-complete-models.md)
+- [Popy Chogokin and Popynika](diecast-brand-popy-chogokin-popynika.md)
 - Takatoku Kanzen Henkei
 - Yutaka Getta Robo Go
 

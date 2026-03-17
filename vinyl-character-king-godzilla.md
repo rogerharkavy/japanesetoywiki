@@ -30,20 +30,6 @@ All three of these figures continue to be sold in multiple vinyl colors and pain
 
 # Links
 
-Mandarake listings for vintage King Godzilla toys:
-
-* Blue finger puppet: https://order.mandarake.co.jp/order/detailPage/item?itemCode=1216408179
-* Red finger puppet: https://order.mandarake.co.jp/order/detailPage/item?itemCode=1154047647
-* 23 cm figure: https://order.mandarake.co.jp/order/detailPage/item?itemCode=1108353596
-* 40 cm figure: https://order.mandarake.co.jp/order/detailPage/item?itemCode=1170815983
-* 50 cm figure: https://order.mandarake.co.jp/order/detailPage/item?itemCode=1063864320
-
-Mandarake listings for modern King Godras toys:
-
-* First TEDEROS Series 23cm Conpora figure: https://order.mandarake.co.jp/order/detailPage/item?itemCode=1179399727
-* First 350 Series (23cm tall) Classic reissue: https://order.mandarake.co.jp/order/detailPage/item?itemCode=1220797967
-* First 450 Series (30cm tall) Classic reproduction: https://order.mandarake.co.jp/order/detailPage/item?itemCode=1233356682
-
 Relevant Skullbrain posts with images:
 
 * http://skullbrain.org/bb/index.php?threads/2-headed-ghidrah-and-more.8202/#post-103580
