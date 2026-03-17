@@ -4,10 +4,10 @@ Welcome to the Japanese Toy Wiki!
 
 ## Manufacturers
 
-- [Marusan (Vintage)](Marusan-(Vintage))
-- [Bullmark (Vintage)](Bullmark-(Vintage))
-- [Marusan (Modern)](Marusan-(Modern))
-- [Bullmark (Modern)](Bullmark-(Modern))
+- [Marusan (Vintage)](vinyl-manufacturer-marusan-vintage.md)
+- [Bullmark (Vintage)](vinyl-manufacturer-bullmark-vintage.md)
+- [Marusan (Modern)](vinyl-manufacturer-marusan-modern.md)
+- [Bullmark (Modern)](vinyl-manufacturer-bullmark-modern.md)
 
 ## Individual Toys
 
