@@ -1,3 +1,5 @@
+# Vinyl Manufacturer: Marusan (Vintage)
+
 In 1923, Naokichi Ishida established **Ishida Manufacturing**, a company that specialized in making optical toys such as binoculars and telescopes. In 1933, his son Haruyasu took over the business and changed the name to **Marusan Shoten Ltd.** The company's operations were interrupted during World War II, but resumed shortly afterwards.
 
 In 1947, Haruyasa Ishida was joined by his younger brother Minoru and their brother-in-law Yasuo Arai. Together they continued to sell optical toys as well as capitalize on the surging postwar demand for Japanese tin toys.

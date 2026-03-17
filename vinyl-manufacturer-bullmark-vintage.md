@@ -1,3 +1,5 @@
+# Vinyl Manufacturer: Bullmark (Vintage)
+
 (For information about Marusan, the predecessor to Bullmark, see the [Marusan (Vintage)](vinyl-manufacturer-marusan-vintage.md) article.)
 
 In 1969, former **Marusan** employees Kotaro Ishida, Saburo Ishizuki, and Yutaka Shibata founded the company **Bullmark**. Marusan’s character licenses from Toho and Tsuburaya were transferred to the new company, and a similar business arrangement to Marusan's was established between Bullmark and sofubi manufacturer **Shimada Toy**.
