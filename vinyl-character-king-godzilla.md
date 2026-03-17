@@ -6,7 +6,7 @@ King Godzilla, now known as King Godoras or King Godras, is a Marusan Original K
 
 # King Godzilla (キングゴジラ)
 
-In 1969, after the bankruptcy of the first incarnation of Marusan, a new company called Marusan Co. Ltd. was established by Minoru Ishida, the son of one of the original company’s founders. Ishida wanted to get back into the business of producing kaiju sofubi toys, but he had one major stumbling block: a lack of viable licenses. The licenses for Toho’s Godzilla and Tsuburaya’s Ultraman had been transferred to the Bullmark company after the original Marusan’s bankruptcy.
+In 1969, after the bankruptcy of the first incarnation of [Marusan](vinyl-brand-marusan-vintage.md), a new company called Marusan Co. Ltd. was established by Minoru Ishida, the son of one of the original company’s founders. Ishida wanted to get back into the business of producing kaiju sofubi toys, but he had one major stumbling block: a lack of viable licenses. The licenses for Toho’s Godzilla and Tsuburaya’s Ultraman had been transferred to the Bullmark company after the original Marusan’s bankruptcy.
 
 Ishida’s solution was to launch Marusan’s own line of original kaiju designs called Marusan's Ultra Monsters. Like other “pachi” (a slang term for bootleg or knockoff) toys of the time that were more or less unauthorized copies of licensed characters, the likenesses and names of these new Marusan monsters deliberately evoked the Toho and Tsuburaya characters that were already known to children, but one particularly brazen example stood out, a reptilian creature dubbed King Godzilla.
 
@@ -20,7 +20,7 @@ Here is a Tokyo Toy Banzai video featuring Eiji Kaminaga, the president of the m
 
 # King Godras (キングゴドラス)
 
-The modern Marusan company’s first vinyl figures released in the 1990s were reissues of the Marusan's Ultra Monsters figures. Marusan eventually began referring to these monster designs collectively as "Marumon," and uses the label "Classic" to describe the vintage sculpting style. All of these reissues were created by making duplicates from vintage production toys and making molds from these duplicates.
+The modern [Marusan](vinyl-brand-marusan-modern.md) company’s first vinyl figures released in the 1990s were reissues of the Marusan's Ultra Monsters figures. Marusan eventually began referring to these monster designs collectively as "Marumon," and uses the label "Classic" to describe the vintage sculpting style. All of these reissues were created by making duplicates from vintage production toys and making molds from these duplicates.
 
 In the late 2000s, the King Godzilla character was reintroduced with a new sculpt and a less-legally-infringing name, King Godoras. The name was later romanized to King Godras. The first sculpt of this character was part of the TEDEROS line of vehicles and monsters, stood 23 cm high, and was sculpted in a realistic style that matched modern kaiju figure offerings from other companies. Marusan refers to this style as "Conpora," a shortening of the word “contemporary.”
 

@@ -12,7 +12,7 @@
 
 ![Mecha Red King.](assets/ark-paragraph1.jpg)
 
-**Ark's** series of six **"Arklon"** diecast monster toys represent everything that's right about Japanese toy-design. Founded in the mid-1970s as a distribution subsidiary of famed vinyl maker [Bullmark](diecast-manufacturer-bullmark-english.md), Ark rose to brief prominence after its parent company's untimely demise in 1977. Under the control of former Bullmark executive Saburo Ishizuki, Ark became a full-fledged manufacturer in its own right, creating "cheapie" toys, vinyl monster figures, and some of the most unique and action-packed diecast toys ever produced by a Japanese toy manufacturer.
+**Ark's** series of six **"Arklon"** diecast monster toys represent everything that's right about Japanese toy-design. Founded in the mid-1970s as a distribution subsidiary of famed vinyl maker [Bullmark](diecast-brand-bullmark-english.md), Ark rose to brief prominence after its parent company's untimely demise in 1977. Under the control of former Bullmark executive Saburo Ishizuki, Ark became a full-fledged manufacturer in its own right, creating "cheapie" toys, vinyl monster figures, and some of the most unique and action-packed diecast toys ever produced by a Japanese toy manufacturer.
 
 ![Mecha Mixup.](assets/ark-paragraph2.gif)
 

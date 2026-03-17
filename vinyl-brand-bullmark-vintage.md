@@ -2,7 +2,7 @@
 
 # Bullmark (Vintage)
 
-(For information about Marusan, the predecessor to Bullmark, see the [Marusan (Vintage)](vinyl-manufacturer-marusan-vintage.md) article.)
+(For information about Marusan, the predecessor to Bullmark, see the [Marusan (Vintage)](vinyl-brand-marusan-vintage.md) article.)
 
 In 1969, former **Marusan** employees Kotaro Ishida, Saburo Ishizuki, and Yutaka Shibata founded the company **Bullmark**. Marusan’s character licenses from Toho and Tsuburaya were transferred to the new company, and a similar business arrangement to Marusan's was established between Bullmark and sofubi manufacturer **Shimada Toy**.
 
@@ -38,11 +38,11 @@ In addition to the main series of reissues described above, numerous individual 
 - **Toygraph** (トイグラフ)
 - **Gargamel** (ガーガメル)
 
-In the early 2000s, Bandai released scaled-down replicas of Bullmark Ultra Series figures called [Soul of Bullmark](vinyl-brand-bandai-soul-of-bullmark.md). These were initially sold in gashapon machines and later as candy toys.
+In the early 2000s, Bandai released scaled-down replicas of Bullmark Ultra Series figures called [Soul of Bullmark](vinyl-line-bandai-soul-of-bullmark.md). These were initially sold in gashapon machines and later as candy toys.
 
-Shortly afterwards, **Iwakura** (イワクラ) released similar replicas of Toho Kaiju figures called [Iwakura Godzilla Bullmark Legends](vinyl-brand-iwakura-bullmark-legends.md), also sold as candy toys.
+Shortly afterwards, **Iwakura** (イワクラ) released similar replicas of Toho Kaiju figures called [Iwakura Godzilla Bullmark Legends](vinyl-line-iwakura-bullmark-legends.md), also sold as candy toys.
 
-In 2009, the Popy reissue series ended, and the Bullmark brand was relaunched by Saburo Ishizuki. (See the [Bullmark (Modern)](vinyl-manufacturer-bullmark-modern.md) article.)
+In 2009, the Popy reissue series ended, and the Bullmark brand was relaunched by Saburo Ishizuki. (See the [Bullmark (Modern)](vinyl-brand-bullmark-modern.md) article.)
 
 # Acknowledgements
 
@@ -54,7 +54,7 @@ Thank you to Eiji Kaminaga of Marusan for providing source material for this art
 
 ### Standard Size
 
-**NOTE:** Figures marked with an asterisk are sculpts originally issued by [Marusan (Vintage)](vinyl-manufacturer-marusan-vintage.md).
+**NOTE:** Figures marked with an asterisk are sculpts originally issued by [Marusan (Vintage)](vinyl-brand-marusan-vintage.md).
 
 - Godzilla (ゴジラ)*
 - Ebirah (エビラ)*
@@ -79,7 +79,7 @@ Thank you to Eiji Kaminaga of Marusan for providing source material for this art
 
 ### Standard Size
 
-**NOTE:** Figures marked with an asterisk are sculpts originally issued by [Marusan (Vintage)](vinyl-manufacturer-marusan-vintage.md).
+**NOTE:** Figures marked with an asterisk are sculpts originally issued by [Marusan (Vintage)](vinyl-brand-marusan-vintage.md).
 
 - Ultraseven (ウルトラセブン)*
 - Dan Moroboshi (モロボシ・ダン)

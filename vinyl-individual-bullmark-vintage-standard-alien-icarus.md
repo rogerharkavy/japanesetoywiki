@@ -15,11 +15,11 @@
 
 ## Export "Hawaii" Variant
 
-![Front](assets/bullmark-alien-icarus-standard-export-front.jpg)
-![Left](assets/bullmark-alien-icarus-standard-export-left.jpg)
-![Right](assets/bullmark-alien-icarus-standard-export-right.jpg)
-![Back](assets/bullmark-alien-icarus-standard-export-back.jpg)
-![Feet](assets/bullmark-alien-icarus-standard-export-feet.jpg)
+- [Front](assets/bullmark-alien-icarus-standard-export-front.jpg)
+- [Left](assets/bullmark-alien-icarus-standard-export-left.jpg)
+- [Right](assets/bullmark-alien-icarus-standard-export-right.jpg)
+- [Back](assets/bullmark-alien-icarus-standard-export-back.jpg)
+- [Feet](assets/bullmark-alien-icarus-standard-export-feet.jpg)
 
 # Links
 

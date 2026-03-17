@@ -16,7 +16,7 @@ Marusan briefly rebranded themselves as **Maruzan** (マルザン) in 1967 with 
 
 Marusan's last figures produced before the bankruptcy were a series of dinosaurs from the British prehistoric adventure film *One Million Years B.C.* Marusan's business arrangement with **Shimada Toy** (島田トーイ), their primary sofubi manufacturer, allowed Shimada to use the molds if they desired. Since the dinosaur designs weren't anyone's intellectual property, Shimada took advantage of this and sold their own run of generically-packaged dinosaurs to help pay off some of Marusan's debt to them.
 
-In 1969, former Marusan employees Kotaro Ishida, Saburo Ishizuki, and Yutaka Shibata founded the company **Bullmark**. Marusan’s character licenses from Toho and Tsuburaya Productions were transferred to the new company, and a similar business arrangement to Marusan's was established between Bullmark and Shimada Toy. (See the [Bullmark (Vintage)](vinyl-manufacturer-bullmark-vintage.md) article.)
+In 1969, former Marusan employees Kotaro Ishida, Saburo Ishizuki, and Yutaka Shibata founded the company **Bullmark**. Marusan’s character licenses from Toho and Tsuburaya Productions were transferred to the new company, and a similar business arrangement to Marusan's was established between Bullmark and Shimada Toy. (See the [Bullmark (Vintage)](vinyl-brand-bullmark-vintage.md) article.)
 
 The same year, a new company called **Marusan Co. Ltd.** was established by Minoru Ishida. This new incarnation launched their own line of original kaiju designs called *Marusan's Ultra Monsters*. Marusan also continued to release licensed sofubi figures from tokusatsu shows such as *Ultraman Ace* (ウルトラマンエース).
 
@@ -24,7 +24,7 @@ Eventually, the second kaiju boom of the 1970s died out with the end of the Godz
 
 Minoru Ishida passed away in 1987, and his wife Aiko Ishida was appointed as president. In 1990, their son Kazuo Ishida became the president.
 
-In 1997, a line of kaiju sofubi reissues was launched by Kazuo Ishida. In 2003, after Ishida's passing, Eiji Kaminaga became president of Marusan. (See the [Marusan (Modern)](vinyl-manufacturer-marusan-modern.md) article.)
+In 1997, a line of kaiju sofubi reissues was launched by Kazuo Ishida. In 2003, after Ishida's passing, Eiji Kaminaga became president of Marusan. (See the [Marusan (Modern)](vinyl-brand-marusan-modern.md) article.)
 
 # Acknowledgements
 

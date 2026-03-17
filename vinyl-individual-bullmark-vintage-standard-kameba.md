@@ -14,11 +14,11 @@
 
 ## Gray Variant
 
-![Front](assets/bullmark-kameba-standard-gray-front.jpg)
-![Left](assets/bullmark-kameba-standard-gray-left.jpg)
-![Right](assets/bullmark-kameba-standard-gray-right.jpg)
-![Back](assets/bullmark-kameba-standard-gray-back.jpg)
-![Feet](assets/bullmark-kameba-standard-gray-feet.jpg)
+- [Front](assets/bullmark-kameba-standard-gray-front.jpg)
+- [Left](assets/bullmark-kameba-standard-gray-left.jpg)
+- [Right](assets/bullmark-kameba-standard-gray-right.jpg)
+- [Back](assets/bullmark-kameba-standard-gray-back.jpg)
+- [Feet](assets/bullmark-kameba-standard-gray-feet.jpg)
 
 # Links
 

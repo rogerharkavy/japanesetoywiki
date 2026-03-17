@@ -2,24 +2,24 @@ Welcome to the Japanese Toy Wiki!
 
 # Vinyl Toys (Sofubi - ソフビ)
 
-## Manufacturers
+## Vinyl Toy Brands
 
-- [Marusan (Vintage)](vinyl-manufacturer-marusan-vintage.md)
-- [Bullmark (Vintage)](vinyl-manufacturer-bullmark-vintage.md)
-- [Marusan (Modern)](vinyl-manufacturer-marusan-modern.md)
-- [Bullmark (Modern)](vinyl-manufacturer-bullmark-modern.md)
+- [Marusan (Vintage)](vinyl-brand-marusan-vintage.md)
+- [Bullmark (Vintage)](vinyl-brand-bullmark-vintage.md)
+- [Marusan (Modern)](vinyl-brand-marusan-modern.md)
+- [Bullmark (Modern)](vinyl-brand-bullmark-modern.md)
 
-## Individual Toys
+## Vinyl Toy Lines
+
+- [Bandai Soul Of Bullmark](vinyl-line-bandai-soul-of-bullmark.md)
+- [Iwakura Godzilla Bullmark Legends](vinyl-line-iwakura-bullmark-legends.md)
+
+## Individual Vinyl Toys
 
 - [Bullmark (Vintage) Standard Size Kameba (カメーバ-)](vinyl-individual-bullmark-vintage-standard-kameba.md)
 - [Bullmark (Vintage) Standard Size Alien Icarus (イカルス星人)](vinyl-individual-bullmark-vintage-standard-alien-icarus.md)
 
-## Toy Brands
-
-- [Bandai Soul Of Bullmark](vinyl-brand-bandai-soul-of-bullmark.md)
-- [Iwakura Godzilla Bullmark Legends](vinyl-brand-iwakura-bullmark-legends.md)
-
-## Characters
+## Vinyl Toy Characters
 
 - [King Godzilla ‐ King Godoras ‐ King Godras (キングゴジラ ‐ キングゴドラス)](vinyl-character-king-godzilla.md)
 
@@ -29,17 +29,17 @@ Welcome to the Japanese Toy Wiki!
 
 The following Wiki pages were ported over from the ToyboxDX Datafiles with permission from the authors.
 
-## Manufacturers
+## Diecast Toy Brands
 
 - Ansony
 - Aoshin
 - Apex
-- [Ark (English)](diecast-manufacturer-ark-english.md)
-- [Ark (日本語)](diecast-manufacturer-ark-japanese.md)
+- [Ark (English)](diecast-brand-ark-english.md)
+- [Ark (日本語)](diecast-brand-ark-japanese.md)
 - Banso
 - Big Bear
-- [Bullmark (English)](diecast-manufacturer-bullmark-english.md)
-- [Bullmark (日本語)](diecast-manufacturer-bullmark.japanese.md)
+- [Bullmark (English)](diecast-brand-bullmark-english.md)
+- [Bullmark (日本語)](diecast-brand-bullmark.japanese.md)
 - Clover
 - Eidai
 - Fuji
@@ -71,18 +71,18 @@ The following Wiki pages were ported over from the ToyboxDX Datafiles with permi
 - Wood
 - Yonezawa
 
-## Toy Brands
+## Diecast Toy Lines
 
-- [Bandai High Complete Models](diecast-brand-bandai-high-complete-models.md)
-- [Popy Chogokin and Popynika](diecast-brand-popy-chogokin-popynika.md)
+- [Bandai High Complete Models](diecast-line-bandai-high-complete-models.md)
+- [Popy Chogokin and Popynika](diecast-line-popy-chogokin-popynika.md)
 - Takatoku Kanzen Henkei
 - Yutaka Getta Robo Go
 
-## Model Kit Brands
+## Model Kit Lines
 
 - Marusan Plamodels
 
-## Robot TV Shows
+## Robot TV Show Toys
 
 - Aura Battler Dunbine
 - Fang of the Sun Dougram

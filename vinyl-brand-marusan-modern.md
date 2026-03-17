@@ -2,7 +2,7 @@
 
 # Marusan (Modern)
 
-(For information about the company's history from the 1920s to the 1990s, see the [Marusan (Vintage)](vinyl-manufacturer-marusan-vintage.md) article.)
+(For information about the company's history from the 1920s to the 1990s, see the [Marusan (Vintage)](vinyl-brand-marusan-vintage.md) article.)
 
 In 1997, a line of kaiju sofubi reissues was launched by **Marusan** President Kazuo Ishida. In 2003, after Ishida's passing, Eiji Kaminaga became president of Marusan.
 

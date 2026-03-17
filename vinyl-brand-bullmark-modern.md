@@ -2,7 +2,7 @@
 
 # Bullmark (Modern)
 
-(For information about the original company founded in the 1960s, see the [Bullmark (Vintage)](vinyl-manufacturer-bullmark-vintage.md) article.)
+(For information about the original company founded in the 1960s, see the [Bullmark (Vintage)](vinyl-brand-bullmark-vintage.md) article.)
 
 In 2009, the **Bullmark** brand was relaunched by Saburo Ishizuki. 
 
