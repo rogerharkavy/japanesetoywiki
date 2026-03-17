@@ -1,4 +1,6 @@
-# Vinyl Manufacturer: Marusan (Vintage)
+#### Vinyl Toys - Manufacturers
+
+# Marusan (Vintage)
 
 In 1923, Naokichi Ishida established **Ishida Manufacturing**, a company that specialized in making optical toys such as binoculars and telescopes. In 1933, his son Haruyasu took over the business and changed the name to **Marusan Shoten Ltd.** The company's operations were interrupted during World War II, but resumed shortly afterwards.
 
@@ -34,10 +36,12 @@ TBD
 
 # Links
 
-- [https://en.wikipedia.org/wiki/Marusan_Sh%C5%8Dten](https://en.wikipedia.org/wiki/Marusan_Sh%C5%8Dten) - Wikipedia entry for Marusan
-- [https://www.youtube.com/watch?v=2GQZQluFEw4](https://www.youtube.com/watch?v=2GQZQluFEw4) - YouTube: The History of Marusan (by Eiji Kaminaga)
-- [https://www.americanantiquities.com/Journal%20Articles/TheHistoryoftheMarusanCompany.html](https://www.americanantiquities.com/Journal%20Articles/TheHistoryoftheMarusanCompany.html) - American Antiquities: The History of the Marusan Company
-- [http://skullbrain.org/bb/index.php?threads/dinos-dinos-dinos.13537/](http://skullbrain.org/bb/index.php?threads/dinos-dinos-dinos.13537/) - Skullbrain: DINOS! DINOS DINOS!
-- [http://clubtokyo.org/site/showCategoryByManufacturer?manufacturerId=7](http://clubtokyo.org/site/showCategoryByManufacturer?manufacturerId=7) - Marusan on Club Tokyo
+- [Wikipedia: Marusan Shōten](https://en.wikipedia.org/wiki/Marusan_Sh%C5%8Dten)
+- [YouTube: The History of Marusan by Eiji Kaminaga](https://www.youtube.com/watch?v=2GQZQluFEw4)
+- [American Antiquities: The History of the Marusan Company](https://www.americanantiquities.com/Journal%20Articles/TheHistoryoftheMarusanCompany.html)
+- [Skullbrain: DINOS! DINOS DINOS!](http://skullbrain.org/bb/index.php?threads/dinos-dinos-dinos.13537/)
+- [Club Tokyo: Marusan](http://clubtokyo.org/site/showCategoryByManufacturer?manufacturerId=7)
+
+---
 
 [Back to Home](https://rogerharkavy.github.io/japanesetoywiki/)

@@ -1,4 +1,6 @@
-# Vinyl Manufacturer: Bullmark (Modern)
+#### Vinyl Toys - Manufacturers
+
+# Bullmark (Modern)
 
 (For information about the original company founded in the 1960s, see the [Bullmark (Vintage)](vinyl-manufacturer-bullmark-vintage.md) article.)
 
@@ -14,7 +16,9 @@ TBD
 
 # Links
 
-- [http://www.bullmark.co.jp/](http://www.bullmark.co.jp/) - Bullmark Shop
-- [https://en.wikipedia.org/wiki/Bullmark](https://en.wikipedia.org/wiki/Bullmark) - Wikipedia entry for Bullmark
+- [Wikipedia entry for Bullmark](https://en.wikipedia.org/wiki/Bullmark)
+- [Club Tokyo: Bullmark Modern](http://clubtokyo.org/site/showCategoryByManufacturer?manufacturerId=105)
+
+---
 
 [Back to Home](https://rogerharkavy.github.io/japanesetoywiki/)

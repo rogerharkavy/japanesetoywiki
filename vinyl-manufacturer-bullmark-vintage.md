@@ -1,4 +1,6 @@
-# Vinyl Manufacturer: Bullmark (Vintage)
+#### Vinyl Toys - Manufacturers
+
+# Bullmark (Vintage)
 
 (For information about Marusan, the predecessor to Bullmark, see the [Marusan (Vintage)](vinyl-manufacturer-marusan-vintage.md) article.)
 
@@ -102,10 +104,13 @@ Thank you to Eiji Kaminaga of Marusan for providing source material for this art
 
 # Links
 
-- [https://en.wikipedia.org/wiki/Bullmark](https://en.wikipedia.org/wiki/Bullmark) - Wikipedia entry for Bullmark
-- [https://www.youtube.com/watch?v=vMyRKx2ngBA](https://www.youtube.com/watch?v=vMyRKx2ngBA) - YouTube: Interview of Saburo Ishizuki by Eiji Kaminaga
-- [http://skullbrain.org/bb/index.php?threads/fresh-meat-questions-ark-orange-etc.15375/](http://skullbrain.org/bb/index.php?threads/fresh-meat-questions-ark-orange-etc.15375/) - Skullbrain: Fresh Meat Questions: Ark, Orange etc
-- [http://skullbrain.org/bb/index.php?threads/hawaii-kaiju.319/#post-567806](http://skullbrain.org/bb/index.php?threads/hawaii-kaiju.319/#post-567806) - Interview with Saburo Ishizuki from Hyper Hobby Dash 6, translated by Matt Alt
-- [http://www.ultrakaijyu.com/Treatise/Treatise.html](http://www.ultrakaijyu.com/Treatise/Treatise.html) - Ultrakaijyu.com: Treatise section (essays on Ultraman kaiju figures and reissues)
+- [Wikipedia: Bullmark](https://en.wikipedia.org/wiki/Bullmark)
+- [YouTube: Interview of Saburo Ishizuki by Eiji Kaminaga](https://www.youtube.com/watch?v=vMyRKx2ngBA)
+- [Skullbrain: Fresh Meat Questions: Ark, Orange etc](http://skullbrain.org/bb/index.php?threads/fresh-meat-questions-ark-orange-etc.15375/)
+- [Skullbrain: Interview with Saburo Ishizuki from Hyper Hobby Dash 6, translated by Matt Alt](http://skullbrain.org/bb/index.php?threads/hawaii-kaiju.319/#post-567806)
+- [Ultrakaijyu.com: Treatise section (essays on Ultraman kaiju figures and reissues)](http://www.ultrakaijyu.com/Treatise/Treatise.html)
+- [Club Tokyo: Bullmark](http://clubtokyo.org/site/showCategoryByManufacturer?manufacturerId=5)
+
+---
 
 [Back to Home](https://rogerharkavy.github.io/japanesetoywiki/)
