@@ -17,4 +17,4 @@ TBD
 - [http://www.bullmark.co.jp/](http://www.bullmark.co.jp/) - Bullmark Shop
 - [https://en.wikipedia.org/wiki/Bullmark](https://en.wikipedia.org/wiki/Bullmark) - Wikipedia entry for Bullmark
 
-[Back to Home](/)
+[Back to Home](https://rogerharkavy.github.io/japanesetoywiki/)

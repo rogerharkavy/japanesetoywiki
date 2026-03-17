@@ -34,9 +34,10 @@ TBD
 
 # Links
 
-- https://en.wikipedia.org/wiki/Marusan_Sh%C5%8Dten - Wikipedia entry for Marusan
-- https://www.youtube.com/watch?v=2GQZQluFEw4 - YouTube: The History of Marusan (by Eiji Kaminaga)
-- http://www.marusan-usa.com/ - Marusan USA (not currently updated, has English-language History section)
-- https://www.americanantiquities.com/Journal%20Articles/TheHistoryoftheMarusanCompany.html - American Antiquities: The History of the Marusan Company
-- http://skullbrain.org/bb/index.php?threads/dinos-dinos-dinos.13537/" - Skullbrain: DINOS! DINOS DINOS!
-- http://clubtokyo.org/site/showCategoryByManufacturer?manufacturerId=7 - Marusan on Club Tokyo
+- [https://en.wikipedia.org/wiki/Marusan_Sh%C5%8Dten](https://en.wikipedia.org/wiki/Marusan_Sh%C5%8Dten) - Wikipedia entry for Marusan
+- [https://www.youtube.com/watch?v=2GQZQluFEw4](https://www.youtube.com/watch?v=2GQZQluFEw4) - YouTube: The History of Marusan (by Eiji Kaminaga)
+- [https://www.americanantiquities.com/Journal%20Articles/TheHistoryoftheMarusanCompany.html](https://www.americanantiquities.com/Journal%20Articles/TheHistoryoftheMarusanCompany.html) - American Antiquities: The History of the Marusan Company
+- [http://skullbrain.org/bb/index.php?threads/dinos-dinos-dinos.13537/](http://skullbrain.org/bb/index.php?threads/dinos-dinos-dinos.13537/) - Skullbrain: DINOS! DINOS DINOS!
+- [http://clubtokyo.org/site/showCategoryByManufacturer?manufacturerId=7](http://clubtokyo.org/site/showCategoryByManufacturer?manufacturerId=7) - Marusan on Club Tokyo
+
+[Back to Home](https://rogerharkavy.github.io/japanesetoywiki/)

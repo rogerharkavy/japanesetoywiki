@@ -29,10 +29,11 @@ TBD
 
 # Links
 
-- http://www.marusan-toy.com/ - Marusan Official Website
-- https://www.youtube.com/channel/UCQkVn7pRl4x7-IIJ4HUvpEw - マルサンＴＶ on YouTube
-- https://www.instagram.com/marusan_kaminaga/ - @marusan_kaminaga on Instagram
-- https://twitter.com/marusankaminaga - @marusankaminaga on Twitter
-- https://www.facebook.com/Marusan-Toys-%E3%83%9E%E3%83%AB%E3%82%B5%E3%83%B3-211535738955880/ - Marusan Toys on Facebook
-- https://en.wikipedia.org/wiki/Marusan_Sh%C5%8Dten - Wikipedia entry for Marusan
-- http://clubtokyo.org/site/showCategoryByManufacturer?manufacturerId=113 - Marusan Modern on Club Tokyo
+- [http://www.marusan-toy.com/](http://www.marusan-toy.com/) - Marusan Official Website
+- [https://www.youtube.com/channel/UCQkVn7pRl4x7-IIJ4HUvpEw](https://www.youtube.com/channel/UCQkVn7pRl4x7-IIJ4HUvpEw) - マルサンＴＶ on YouTube
+- [https://www.instagram.com/marusan_kaminaga/](https://www.instagram.com/marusan_kaminaga/) - @marusan_kaminaga on Instagram
+- [https://www.facebook.com/Marusan-Toys-%E3%83%9E%E3%83%AB%E3%82%B5%E3%83%B3-211535738955880/](https://www.facebook.com/Marusan-Toys-%E3%83%9E%E3%83%AB%E3%82%B5%E3%83%B3-211535738955880/) - Marusan Toys on Facebook
+- [https://en.wikipedia.org/wiki/Marusan_Sh%C5%8Dten](https://en.wikipedia.org/wiki/Marusan_Sh%C5%8Dten) - Wikipedia entry for Marusan
+- [http://clubtokyo.org/site/showCategoryByManufacturer?manufacturerId=113](http://clubtokyo.org/site/showCategoryByManufacturer?manufacturerId=113) - Marusan Modern on Club Tokyo
+
+[Back to Home](https://rogerharkavy.github.io/japanesetoywiki/)

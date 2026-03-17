@@ -102,11 +102,10 @@ Thank you to Eiji Kaminaga of Marusan for providing source material for this art
 
 # Links
 
-- https://en.wikipedia.org/wiki/Bullmark - Wikipedia entry for Bullmark
-- https://www.youtube.com/watch?v=vMyRKx2ngBA- YouTube: Interview of Saburo Ishizuki by Eiji Kaminaga
-- https://web.archive.org/web/20250427072956/http://toyboxdx.com/datafiles/data/bullmark/ - ToyboxDX Data File: Raging Bullmark (via the Wayback Machine)
-- https://web.archive.org/web/20250125122055/http://www.toyboxdx.com/datafiles/data/ark/ - ToyboxDX Data File: Ark (via the Wayback Machine)
-- https://web.archive.org/web/20200814054316/http://www.toyboxdx.com/infolibrary/translations/ishizuki.php - ToyboxDX: The Third Company: Ark (via the Wayback Machine)
-- http://skullbrain.org/bb/index.php?threads/fresh-meat-questions-ark-orange-etc.15375/ - Skullbrain: Fresh Meat Questions: Ark, Orange etc
-- http://skullbrain.org/bb/index.php?threads/hawaii-kaiju.319/#post-567806 - Interview with Saburo Ishizuki from Hyper Hobby Dash 6, translated by Matt Alt
-- http://www.ultrakaijyu.com/Treatise/Treatise.html - Ultrakaijyu.com: Treatise section (essays on Ultraman kaiju figures and reissues)
+- [https://en.wikipedia.org/wiki/Bullmark](https://en.wikipedia.org/wiki/Bullmark) - Wikipedia entry for Bullmark
+- [https://www.youtube.com/watch?v=vMyRKx2ngBA](https://www.youtube.com/watch?v=vMyRKx2ngBA) - YouTube: Interview of Saburo Ishizuki by Eiji Kaminaga
+- [http://skullbrain.org/bb/index.php?threads/fresh-meat-questions-ark-orange-etc.15375/](http://skullbrain.org/bb/index.php?threads/fresh-meat-questions-ark-orange-etc.15375/) - Skullbrain: Fresh Meat Questions: Ark, Orange etc
+- [http://skullbrain.org/bb/index.php?threads/hawaii-kaiju.319/#post-567806](http://skullbrain.org/bb/index.php?threads/hawaii-kaiju.319/#post-567806) - Interview with Saburo Ishizuki from Hyper Hobby Dash 6, translated by Matt Alt
+- [http://www.ultrakaijyu.com/Treatise/Treatise.html](http://www.ultrakaijyu.com/Treatise/Treatise.html) - Ultrakaijyu.com: Treatise section (essays on Ultraman kaiju figures and reissues)
+
+[Back to Home](https://rogerharkavy.github.io/japanesetoywiki/)
