@@ -1,6 +1,6 @@
 Welcome to the Japanese Toy Wiki!
 
-# Vinyl Toys
+# Vinyl Toys (Sofubi/ソフビ)
 
 ## Manufacturers
 
@@ -25,7 +25,7 @@ Welcome to the Japanese Toy Wiki!
 
 ***
 
-# Diecast Toys
+# Diecast Toys (Chogokin/超合金)
 
 The following Wiki pages were ported over from the ToyboxDX Datafiles with permission from the authors.
 
