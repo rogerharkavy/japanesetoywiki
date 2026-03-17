@@ -32,13 +32,13 @@ All three of these figures continue to be sold in multiple vinyl colors and pain
 
 Relevant Skullbrain posts with images:
 
-* http://skullbrain.org/bb/index.php?threads/2-headed-ghidrah-and-more.8202/#post-103580
-* http://skullbrain.org/bb/index.php?threads/kittyfire-and-friends.8137/page-5#post-106263
-* http://skullbrain.org/bb/index.php?threads/kittyfire-and-friends.8137/page-6#post-106569
-* http://skullbrain.org/bb/index.php?threads/strange-or-rare-yahoo-auctions-post-here-after-theyre-over.13925/page-91#post-928040
-* http://skullbrain.org/bb/index.php?threads/strange-or-rare-yahoo-auctions-post-here-after-theyre-over.13925/page-91#post-928069
-* http://skullbrain.org/bb/index.php?threads/strange-or-rare-yahoo-auctions-post-here-after-theyre-over.13925/page-101#post-945200
-* http://skullbrain.org/bb/index.php?threads/a-marusan-king-godzilla-king-godoras-king-godras-explainer.55868/ (a copy of this article plus discussion)
+* [http://skullbrain.org/bb/index.php?threads/2-headed-ghidrah-and-more.8202/#post-103580]()
+* [http://skullbrain.org/bb/index.php?threads/kittyfire-and-friends.8137/page-5#post-106263]()
+* [http://skullbrain.org/bb/index.php?threads/kittyfire-and-friends.8137/page-6#post-106569]()
+* [http://skullbrain.org/bb/index.php?threads/strange-or-rare-yahoo-auctions-post-here-after-theyre-over.13925/page-91#post-928040]()
+* [http://skullbrain.org/bb/index.php?threads/strange-or-rare-yahoo-auctions-post-here-after-theyre-over.13925/page-91#post-928069]()
+* [http://skullbrain.org/bb/index.php?threads/strange-or-rare-yahoo-auctions-post-here-after-theyre-over.13925/page-101#post-945200]()
+* [http://skullbrain.org/bb/index.php?threads/a-marusan-king-godzilla-king-godoras-king-godras-explainer.55868/]() - A copy of this article plus discussion.
 
 ---
 
