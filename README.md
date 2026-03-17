@@ -1,1 +1,92 @@
-Japanese Toy Wiki content will go here. TEST.
+Welcome to the Japanese Toy Wiki!
+
+# Vinyl Toys
+
+## Manufacturers
+
+- [Marusan (Vintage)](Marusan-(Vintage))
+- [Bullmark (Vintage)](Bullmark-(Vintage))
+- [Marusan (Modern)](Marusan-(Modern))
+- [Bullmark (Modern)](Bullmark-(Modern))
+
+## Individual Toys
+
+- [Bullmark (Vintage) Standard Size Kameba (カメーバ-)](Bullmark-(Vintage)-Standard-Size-Kameba-(カメーバ-))
+- [Bullmark (Vintage) Standard Size Alien Icarus (イカルス星人)](Bullmark-(Vintage)-Standard-Size-Alien-Icarus-(イカルス星人))
+
+## Toy Brands
+
+- [Iwakura Godzilla Bullmark Legends](Iwakura-Godzilla-Bullmark-Legends)
+- [Soul Of Bullmark](Soul-Of-Bullmark)
+
+## Character Files
+
+- [King Godzilla ‐ King Godoras ‐ King Godras (キングゴジラ ‐ キングゴドラス)](King-Godzilla-‐-King-Godoras-‐-King-Godras-(キングゴジラ-‐-キングゴドラス))
+
+***
+
+# Diecast Toys
+
+The following Wiki pages were ported over from the ToyboxDX Datafiles with permission from the authors.
+
+## Manufacturers
+
+- Ansony
+- Aoshin
+- Apex
+- [Ark (English)](Datafile-‐-Ark-(English))
+- [Ark (日本語)](Datafile-‐-Ark-(日本語))
+- Banso
+- Big Bear
+- [Bullmark (English)](Datafile-‐-Bullmark-(English))
+- [Bullmark (日本語)](Datafile-‐-Bullmark-(日本語))
+- Clover
+- Eidai
+- Fuji
+- Grip
+- Imai
+- Mark
+- Maruka
+- Marukoshi
+- Marushin
+- Matsushiro
+- Nakajima
+- Nomura
+- Ohsato
+- Onda
+- Poem
+- Poplar
+- Robin
+- Sakura
+- Sansei
+- Sanzen
+- Sega
+- Seven
+- Shinsei
+- Takatoku
+- Takemi
+- Tsukuda
+- Victora
+- Wilby
+- Wood
+- Yonezawa
+
+## Toy Brands
+
+- [Bandai High Complete Models](Bandai-High-Complete-Models)
+- [Popy Chogokin and Popynika](Datafile-‐-Popy-Chogokin-and-Popynika)
+- Takatoku Kanzen Henkei
+- Yutaka Getta Robo Go
+
+## Model Kit Brands
+
+- Marusan Plamodels
+
+## Robot TV Shows
+
+- Aura Battler Dunbine
+- Fang of the Sun Dougram
+- Heavy Metal L-Gaim
+- Machine Soldier Dorvack
+- Spiral Zone
+- Subspace Operation Srungle
