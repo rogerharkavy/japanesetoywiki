@@ -1,4 +1,4 @@
-#### Diecast Toys - Toy Brands
+#### Diecast Toys - Lines
 
 # Bandai High Complete Models
 

@@ -1,4 +1,4 @@
-#### Vinyl Toys - Toy Brands
+#### Vinyl Toys - Lines
 
 # Bandai Soul of Bullmark
 

@@ -1,4 +1,4 @@
-#### Vinyl Toys - Manufacturers
+#### Vinyl Toys - Brands
 
 # Bullmark (Modern)
 

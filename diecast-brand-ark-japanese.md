@@ -1,4 +1,4 @@
-#### Diecast Toys - Manufacturers
+#### Diecast Toys - Brands
 
 # Ark (日本語)
 

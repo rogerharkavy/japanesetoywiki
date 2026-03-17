@@ -1,4 +1,4 @@
-#### Vinyl Toys - Manufacturers
+#### Vinyl Toys - Brands
 
 # Marusan (Vintage)
 

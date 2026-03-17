@@ -1,4 +1,4 @@
-#### Vinyl Toys - Toy Brands
+#### Vinyl Toys - Lines
 
 # Iwakura Bullmark Legends
 
