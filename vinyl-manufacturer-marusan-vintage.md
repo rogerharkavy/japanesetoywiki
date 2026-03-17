@@ -38,7 +38,6 @@ TBD
 
 - [Wikipedia: Marusan Shōten](https://en.wikipedia.org/wiki/Marusan_Sh%C5%8Dten)
 - [YouTube: The History of Marusan by Eiji Kaminaga](https://www.youtube.com/watch?v=2GQZQluFEw4)
-- [American Antiquities: The History of the Marusan Company](https://www.americanantiquities.com/Journal%20Articles/TheHistoryoftheMarusanCompany.html)
 - [Skullbrain: DINOS! DINOS DINOS!](http://skullbrain.org/bb/index.php?threads/dinos-dinos-dinos.13537/)
 - [Club Tokyo: Marusan](http://clubtokyo.org/site/showCategoryByManufacturer?manufacturerId=7)
 
