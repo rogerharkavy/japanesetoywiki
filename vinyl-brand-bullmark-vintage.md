@@ -25,7 +25,7 @@ Bullmark ended operations in 1977, but over the years their iconic vinyl figure 
   - Some reissues were sold with a folding tag tied around their neck, while others were sold bagged with header cards.
   - Each reissue had a Bullmark logo or text sculpted into the foot and a sticker reading "BANDAI 199X JAPAN".
   - These reissues were rumored to be recast from Bullmark production figures instead of being generated from original tooling.
-- Late 1990s: Production runs of these reissues were scaled back and the product line was moved to **B-Club** (Bクラブ), one of Bandai’s hobbyist sub-brands. 
+- Late 1990s: Production runs of these reissues were scaled back and the product line was moved to **B-Club** (Bクラブ), one of Bandai’s hobbyist sub-brands.
   - Each reissue had a Bullmark logo or text sculpted into the foot and a blank ink stamp reading "バンダイ" (Bandai in katakana).
 - Mid 2000s: Bandai consolidated several of their divisions including B-Club under the brand **Popy** (ポピー).
   - Each reissue had a Bullmark logo or text sculpted into the foot and a blank ink stamp reading "POPY".
@@ -47,7 +47,7 @@ In 2009, the Popy reissue series ended, and the Bullmark brand was relaunched by
 # Acknowledgements
 
 Thank you to Eiji Kaminaga of Marusan for providing source material for this article.
- 
+
 # Releases
 
 ## Toho Characters

@@ -4,7 +4,7 @@
 
 (For information about the original company founded in the 1960s, see the [Bullmark (Vintage)](vinyl-brand-bullmark-vintage.md) article.)
 
-In 2009, the **Bullmark** brand was relaunched by Saburo Ishizuki. 
+In 2009, the **Bullmark** brand was relaunched by Saburo Ishizuki.
 
 The company initially sold reissues of vintage Bullmark figures, but later added new vintage-style designs to their product lineup.
 

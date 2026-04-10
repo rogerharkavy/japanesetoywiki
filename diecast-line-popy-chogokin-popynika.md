@@ -18,7 +18,7 @@ PA Series:
 | PA-08 | Joe Car | Robot Keiji |
 | PA-09 | Mazeran | Ultraman Taro |
 | PA-10 | Ironfish | Ultraman Taro |
-| PA-11 | None |
+| PA-11 | None | None |
 | PA-12 | Mini Mini Kabuto Motorcycle | Mazinger Z |
 | PA-13 | 0-Tester 1 | Zero Tester |
 | PA-14 | 0-Tester 2 | Zero Tester |

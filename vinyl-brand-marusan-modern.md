@@ -24,7 +24,7 @@ Marusan’s products are currently available to purchase directly via their webs
 # Acknowledgements
 
 Thank you to Eiji Kaminaga of Marusan for providing source material for this article.
- 
+
 # Releases
 
 TBD
